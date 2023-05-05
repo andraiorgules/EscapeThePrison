@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CC669A94-85D6-4955-983C-75347388A1A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Item.cs">
+    <Files>
+      <File FileName="Item.cs" Line="3" Column="19" />
+      <File FileName="Player.cs" />
+      <File FileName="NPC.cs" />
+      <File FileName="Game.cs" />
+      <File FileName="Room.cs" />
+      <File FileName="Start.cs" Line="11" Column="33" />
+      <File FileName="MainWindow.cs" />
+      <File FileName="NPCPage.cs" />
+      <File FileName="Location.cs" />
+      <File FileName="App.cs" />
+      <File FileName="AssemblyInfo.cs" />
+      <File FileName="Utility.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProect" expanded="True">
+            <Node name="FinalProect" expanded="True">
+              <Node name="NPC.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FinalProect PreferredExecutionTarget="/Applications/Arc.app" />
+</Properties>
